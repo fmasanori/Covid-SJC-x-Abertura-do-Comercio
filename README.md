@@ -1,4 +1,4 @@
-# Covid-SJC-x-Abertura-do-Comercio]
+# Covid-SJC x Abertura do Comércio
 # Nícolas Soares Telles e Lucas Vinícius dos Santos Almeida
 
 Este trabalho tem como objetivo analisar os dados do Covid-19 com intuito de aprender mais sobre DataScience e Análise de Dados públicos dentro da matéria de Algoritmo e Lógica de Programação minitrada pelo professor Fernando Masanori, não tendo nenhum vínculo político ou com a intenção de ser utilizado por tal ramo.
